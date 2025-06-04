@@ -1,0 +1,77 @@
+.player-page {
+  padding: 2rem;
+  text-align: center;
+
+  .box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .profile {
+    width: 120px;
+    border-radius: 12px;
+    margin-bottom: 0.5rem;
+  }
+
+  .averages {
+    margin-bottom: 3rem;
+    font-size: 1.1rem;
+
+    p {
+      margin: 0.2rem 0;
+    }
+  }
+
+  .recent-matches {
+    margin-top: 4.3rem;
+    font-size: 1.1rem;
+    background-color: #f5fff5;
+    padding: 20px;
+    border-radius: 20px;
+    width: 300px;
+  }
+
+  .nav-buttons {
+    margin-top: 100px;
+
+    button {
+      margin: 0 0.5rem;
+      padding: 0.5rem 1.2rem;
+      background: #1a531b;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+  }
+
+  .radar {
+    width: 300px;
+    margin-top: 4.3rem;
+  }
+}
+
+.view-all-button {
+  margin-top: 1rem;
+  padding: 0.5rem 1.2rem;
+  font-weight: bold;
+  background: #e6f3e6;
+  color: #1a531b;
+  border: 1px solid #1a531b;
+  border-radius: 8px;
+  cursor: pointer;
+
+  &:hover {
+    background: #d4ebd4;
+  }
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+}

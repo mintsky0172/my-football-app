@@ -1,0 +1,35 @@
+.compare-page {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+
+  h2 {
+    margin-bottom: 30px;
+  }
+
+  canvas {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+    button {
+      padding: 10px 20px;
+      font-size: 15px;
+      background: #1976d2;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+
+      &:hover {
+        background: #1565c0;
+      }
+    }
+  }
+}

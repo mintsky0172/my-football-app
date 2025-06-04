@@ -1,0 +1,347 @@
+[
+  {
+    "id": "배준호",
+    "name": "배준호",
+    "position": "FW",
+    "birth": "2003-08-21",
+    "team": "스토크 시티 FC",
+    "image": "/players/배준호.png"
+  },
+  {
+    "id": "오세훈",
+    "name": "오세훈",
+    "position": "FW",
+    "birth": "1999-01-15",
+    "team": "시미즈 S펄스",
+    "image": "/players/오세훈.png"
+  },
+  {
+    "id": "오현규",
+    "name": "오현규",
+    "position": "FW",
+    "birth": "2001-04-12",
+    "team": "KRC헹크",
+    "image": "/players/오현규.png"
+  },
+  {
+    "id": "이승우",
+    "name": "이승우",
+    "position": "FW",
+    "birth": "1998-01-06",
+    "team": "전북현대모터스",
+    "image": "/players/이승우.png"
+  },
+  {
+    "id": "정우영1",
+    "name": "정우영",
+    "position": "FW",
+    "birth": "1999-09-20",
+    "team": "1.FC 우니온 베를린",
+    "image": "/players/정우영1.png"
+  },
+  {
+    "id": "조규성",
+    "name": "조규성",
+    "position": "FW",
+    "birth": "1998-01-25",
+    "team": "FC 미트윌란",
+    "image": "/players/조규성.png"
+  },
+  {
+    "id": "주민규",
+    "name": "주민규",
+    "position": "FW",
+    "birth": "1990-04-13",
+    "team": "대전하나시티즌",
+    "image": "/players/주민규.jpg"
+  },
+  {
+    "id": "문선민",
+    "name": "문선민",
+    "position": "MF",
+    "birth": "1992-06-09",
+    "team": "전북현대모터스",
+    "image": "/players/문선민.png"
+  },
+  {
+    "id": "박용우",
+    "name": "박용우",
+    "position": "MF",
+    "birth": "1993-09-10",
+    "team": "알 아인",
+    "image": "/players/박용우.png"
+  },
+  {
+    "id": "백승호",
+    "name": "백승호",
+    "position": "MF",
+    "birth": "1997-03-17",
+    "team": "버밍엄 시티 FC",
+    "image": "/players/백승호.png"
+  },
+  {
+    "id": "손흥민",
+    "name": "손흥민",
+    "position": "MF",
+    "birth": "1992-07-08",
+    "team": "토트넘 홋스퍼",
+    "image": "/players/손흥민.png"
+  },
+  {
+    "id": "송민규",
+    "name": "송민규",
+    "position": "MF",
+    "birth": "1999-09-12",
+    "team": "전북현대모터스",
+    "image": "/players/송민규.png"
+  },
+  {
+    "id": "엄원상",
+    "name": "엄원상",
+    "position": "MF",
+    "birth": "1999-01-06",
+    "team": "울산 현대 FC",
+    "image": "/players/엄원상.png"
+  },
+  {
+    "id": "양민혁",
+    "name": "양민혁",
+    "position": "MF",
+    "birth": "2006-04-16",
+    "team": "퀸즈 파크 레인저스 FC",
+    "image": "/players/양민혁.jpeg"
+  },
+  {
+    "id": "양현준",
+    "name": "양현준",
+    "position": "MF",
+    "birth": "2002-05-25",
+    "team": "셀틱 FC",
+    "image": "/players/양현준.png"
+  },
+  {
+    "id": "엄지성",
+    "name": "엄지성",
+    "position": "MF",
+    "birth": "2002-05-09",
+    "team": "스완지 시티 AFC",
+    "image": "/players/엄지성.png"
+  },
+
+  {
+    "id": "이강인",
+    "name": "이강인",
+    "position": "MF",
+    "birth": "2001-02-19",
+    "team": "파리 생제르맹 FC",
+    "image": "/players/이강인.png"
+  },
+  {
+    "id": "이동경",
+    "name": "이동경",
+    "position": "MF",
+    "birth": "1997-09-20",
+    "team": "김천상무프로축구단",
+    "image": "/players/이동경.png"
+  },
+  {
+    "id": "이재성",
+    "name": "이재성",
+    "position": "MF",
+    "birth": "1992-08-10",
+    "team": "FSV 마인츠05",
+    "image": "/players/이재성.png"
+  },
+  {
+    "id": "이현주",
+    "name": "이현주",
+    "position": "MF",
+    "birth": "2003-02-07",
+    "team": "하노버 96",
+    "image": "/players/이현주.png"
+  },
+  {
+    "id": "정우영2",
+    "name": "정우영",
+    "position": "MF",
+    "birth": "1989-12-14",
+    "team": "울산 현대 FC",
+    "image": "/players/정우영2.png"
+  },
+  {
+    "id": "정호연",
+    "name": "정호연",
+    "position": "MF",
+    "birth": "2000-09-28",
+    "team": "미네소타 유나이티드 FC",
+    "image": "/players/정호연.png"
+  },
+  {
+    "id": "홍현석",
+    "name": "홍현석",
+    "position": "MF",
+    "birth": "1999-06-16",
+    "team": "FSV 마인츠05",
+    "image": "/players/홍현석.png"
+  },
+  {
+    "id": "황문기",
+    "name": "황문기",
+    "position": "MF",
+    "birth": "1996-12-08",
+    "team": "강원FC",
+    "image": "/players/황문기.png"
+  },
+  {
+    "id": "황인범",
+    "name": "황인범",
+    "position": "MF",
+    "birth": "1996-09-20",
+    "team": "페예노르트 로테르담",
+    "image": "/players/황인범.png"
+  },
+  {
+    "id": "황희찬",
+    "name": "황희찬",
+    "position": "MF",
+    "birth": "1996-01-26",
+    "team": "울버햄튼 원더러스",
+    "image": "/players/황희찬.png"
+  },
+  {
+    "id": "권경원",
+    "name": "권경원",
+    "position": "DF",
+    "birth": "1992-01-31",
+    "team": "코르파칸클럽",
+    "image": "/players/권경원.png"
+  },
+  {
+    "id": "김문환",
+    "name": "김문환",
+    "position": "DF",
+    "birth": "1995-08-01",
+    "team": "대전하나시티즌",
+    "image": "/players/김문환.png"
+  },
+  {
+    "id": "김민재",
+    "name": "김민재",
+    "position": "DF",
+    "birth": "1996-11-15",
+    "team": "FC 바이에른 뮌헨",
+    "image": "/players/김민재.png"
+  },
+  {
+    "id": "김영권",
+    "name": "김영권",
+    "position": "DF",
+    "birth": "1990-02-27",
+    "team": "울산 현대 FC",
+    "image": "/players/김영권.png"
+  },
+  {
+    "id": "김진수",
+    "name": "김진수",
+    "position": "DF",
+    "birth": "1992-06-13",
+    "team": "전북현대모터스",
+    "image": "/players/김진수.png"
+  },
+  {
+    "id": "김태환",
+    "name": "김태환",
+    "position": "DF",
+    "birth": "1989-07-24",
+    "team": "전북현대모터스",
+    "image": "/players/김태환.png"
+  },
+  {
+    "id": "박승욱",
+    "name": "박승욱",
+    "position": "DF",
+    "birth": "1997-05-07",
+    "team": "김천상무프로축구단",
+    "image": "/players/박승욱.png"
+  },
+  {
+    "id": "박진섭",
+    "name": "박진섭",
+    "position": "DF",
+    "birth": "1995-10-23",
+    "team": "전북현대모터스",
+    "image": "/players/박진섭.png"
+  },
+  {
+    "id": "설영우",
+    "name": "설영우",
+    "position": "DF",
+    "birth": "1998-12-05",
+    "team": "FK 츠르베나 즈베즈다",
+    "image": "/players/설영우.png"
+  },
+  {
+    "id": "이기제",
+    "name": "이기제",
+    "position": "DF",
+    "birth": "1991-07-09",
+    "team": "수원삼성블루윙즈",
+    "image": "/players/이기제.png"
+  },
+  {
+    "id": "이명재",
+    "name": "이명재",
+    "position": "DF",
+    "birth": "1993-11-04",
+    "team": "울산 현대 FC",
+    "image": "/players/이명재.png"
+  },
+  {
+    "id": "이태석",
+    "name": "이태석",
+    "position": "DF",
+    "birth": "2002-07-28",
+    "team": "포항스틸러스",
+    "image": "/players/이태석.png"
+  },
+  {
+    "id": "정승현",
+    "name": "정승현",
+    "position": "DF",
+    "birth": "1994-04-03",
+    "team": "알 와슬 FC",
+    "image": "/players/정승현.png"
+  },
+  {
+    "id": "조유민",
+    "name": "조유민",
+    "position": "DF",
+    "birth": "1996-11-17",
+    "team": "샤르자 FC",
+    "image": "/players/조유민.png"
+  },
+  {
+    "id": "황재원",
+    "name": "황재원",
+    "position": "DF",
+    "birth": "2002-08-16",
+    "team": "대구FC",
+    "image": "/players/황재원.png"
+  },
+  {
+    "id": "김승규",
+    "name": "김승규",
+    "position": "GK",
+    "birth": "1990-09-30",
+    "team": "알샤밥",
+    "image": "/players/김승규.png"
+  },
+  {
+    "id": "조현우",
+    "name": "조현우",
+    "position": "GK",
+    "birth": "1991-09-25",
+    "team": "울산 현대 FC",
+    "image": "/players/조현우.png"
+  }
+]

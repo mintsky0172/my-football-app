@@ -1,0 +1,46 @@
+.player-stats-page {
+  padding: 2rem;
+  text-align: center;
+
+  h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    color: #555;
+  }
+
+  .stat-cards {
+    background: #f9f9f9;
+    padding: 1rem;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    max-width: 400px;
+    margin: 0 auto 2rem;
+  }
+
+  .nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+
+    button {
+      padding: 0.5rem 1.2rem;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      background-color: #1a531b;
+      color: white;
+      font-weight: bold;
+
+      &:hover {
+        background-color: #124014;
+      }
+    }
+  }
+}

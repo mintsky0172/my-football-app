@@ -1,0 +1,2439 @@
+{
+  "kor-vs-brn-20240115": {
+    "김승규": {
+      "pass_accuracy": 8.8,
+      "aerial": 0.0,
+      "save": 2.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 6.8,
+      "position": "GK"
+    },
+    "설영우": {
+      "pass_accuracy": 9.2,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "정승현": {
+      "pass_accuracy": 9.0,
+      "tackle": 2.0,
+      "clearance": 3.0,
+      "block": 10,
+      "aerial": 10,
+      "rating": 7.3,
+      "position": "DF"
+    },
+    "김민재": {
+      "assist": 5.0,
+      "pass_accuracy": 9.4,
+      "tackle": 4.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 6.9,
+      "position": "DF"
+    },
+    "이기제": {
+      "pass_accuracy": 8.7,
+      "tackle": 0.0,
+      "clearance": 2.0,
+      "block": 3.3,
+      "aerial": 0.0,
+      "rating": 6.4,
+      "position": "DF"
+    },
+    "이강인": {
+      "goal": 10,
+      "assist": 0.0,
+      "pass_accuracy": 9.1,
+      "key_pass": 10,
+      "tackle": 0.0,
+      "rating": 9.7,
+      "position": "MF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.2,
+      "key_pass": 0.0,
+      "tackle": 8.0,
+      "rating": 6.8,
+      "position": "MF"
+    },
+    "황인범": {
+      "goal": 5.0,
+      "assist": 5.0,
+      "pass_accuracy": 8.5,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 8.6,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.0,
+      "key_pass": 10,
+      "tackle": 4.0,
+      "rating": 7.5,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 10,
+      "pass_accuracy": 8.0,
+      "rating": 7.0,
+      "position": "FW"
+    },
+    "조규성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 6.9,
+      "rating": 5.8,
+      "position": "FW"
+    },
+    "김태환": {
+      "pass_accuracy": 8.8,
+      "tackle": 4.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.9,
+      "position": "DF"
+    },
+    "김영권": {
+      "pass_accuracy": 8.9,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.2,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 6.6,
+      "position": "MF"
+    },
+    "박진섭": {
+      "pass_accuracy": 8.9,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.5,
+      "position": "DF"
+    },
+    "정우영1": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 10,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.8,
+      "position": "MF"
+    }
+  },
+  "kor-vs-jor-20240120": {
+    "조현우": {
+      "pass_accuracy": 7.8,
+      "aerial": 0.0,
+      "save": 6.0,
+      "conceded": 3.3,
+      "clean_sheet": 0.0,
+      "rating": 6.5,
+      "position": "GK"
+    },
+    "이기제": {
+      "pass_accuracy": 8.5,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.5,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 9.1,
+      "tackle": 4.0,
+      "clearance": 1.0,
+      "block": 3.3,
+      "aerial": 8.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "정승현": {
+      "pass_accuracy": 8.5,
+      "tackle": 2.0,
+      "clearance": 3.0,
+      "block": 3.3,
+      "aerial": 10,
+      "rating": 7.1,
+      "position": "DF"
+    },
+    "설영우": {
+      "pass_accuracy": 8.3,
+      "tackle": 6.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 10,
+      "tackle": 8.0,
+      "rating": 6.9,
+      "position": "MF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.5,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 6.1,
+      "position": "MF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 10,
+      "tackle": 10,
+      "rating": 8.0,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 6.8,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 10,
+      "dribble": 10,
+      "pass_accuracy": 9.3,
+      "rating": 8.0,
+      "position": "FW"
+    },
+    "조규성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 6.8,
+      "position": "FW"
+    },
+    "김태환": {
+      "pass_accuracy": 8.3,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.1,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 6.8,
+      "position": "MF"
+    },
+    "정우영1": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.0,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.9,
+      "position": "MF"
+    },
+    "오현규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 2.0,
+      "pass_accuracy": 10,
+      "rating": 6.7,
+      "position": "FW"
+    },
+    "박진섭": {
+      "pass_accuracy": 9.0,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 7.3,
+      "position": "DF"
+    }
+  },
+  "kor-vs-mys-20240125": {
+    "조현우": {
+      "pass_accuracy": 6.9,
+      "aerial": 2.0,
+      "save": 2.0,
+      "conceded": 0,
+      "clean_sheet": 0.0,
+      "rating": 5.9,
+      "position": "GK"
+    },
+    "김태환": {
+      "pass_accuracy": 8.3,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 6.7,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 9.1,
+      "tackle": 4.0,
+      "clearance": 0.0,
+      "block": 3.3,
+      "aerial": 8.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "김영권": {
+      "pass_accuracy": 9.1,
+      "tackle": 0.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 6.7,
+      "position": "DF"
+    },
+    "설영우": {
+      "pass_accuracy": 9.2,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "이강인": {
+      "goal": 5.0,
+      "assist": 5.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 10,
+      "tackle": 4.0,
+      "rating": 8.7,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.3,
+      "key_pass": 3.3,
+      "tackle": 10,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.2,
+      "key_pass": 0.0,
+      "tackle": 4.0,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "정우영1": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.1,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 7.5,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 8.0,
+      "dribble": 2.0,
+      "pass_accuracy": 8.8,
+      "rating": 8.0,
+      "position": "FW"
+    },
+    "조규성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.0,
+      "rating": 6.2,
+      "position": "FW"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.8,
+      "key_pass": 0.0,
+      "tackle": 4.0,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "황희찬": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 2.0,
+      "pass_accuracy": 8.0,
+      "rating": 6.7,
+      "position": "FW"
+    },
+    "김진수": {
+      "pass_accuracy": 7.1,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.3,
+      "position": "DF"
+    },
+    "오현규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 7.1,
+      "position": "FW"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 5.0,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "position": "MF"
+    }
+  },
+  "kor-vs-sau-20240130": {
+    "조현우": {
+      "pass_accuracy": 8.6,
+      "aerial": 0.0,
+      "save": 4.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 7.6,
+      "position": "GK"
+    },
+    "김영권": {
+      "pass_accuracy": 9.3,
+      "tackle": 4.0,
+      "clearance": 5.0,
+      "block": 0.0,
+      "aerial": 8.0,
+      "rating": 7.3,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 9.6,
+      "tackle": 2.0,
+      "clearance": 2.0,
+      "block": 3.3,
+      "aerial": 10,
+      "rating": 8.3,
+      "position": "DF"
+    },
+    "정승현": {
+      "pass_accuracy": 7.7,
+      "tackle": 4.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "설영우": {
+      "assist": 5.0,
+      "pass_accuracy": 7.8,
+      "tackle": 4.0,
+      "clearance": 2.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 8.2,
+      "position": "DF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.3,
+      "key_pass": 10,
+      "tackle": 0.0,
+      "rating": 7.6,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.6,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "김태환": {
+      "pass_accuracy": 7.2,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 7.0,
+      "position": "DF"
+    },
+    "정우영1": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 6.0,
+      "pass_accuracy": 9.2,
+      "rating": 6.4,
+      "position": "FW"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 2.0,
+      "pass_accuracy": 8.4,
+      "rating": 8.3,
+      "position": "FW"
+    },
+    "손흥민": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 10,
+      "dribble": 6.0,
+      "pass_accuracy": 8.8,
+      "rating": 7.4,
+      "position": "FW"
+    },
+    "황희찬": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 8.0,
+      "pass_accuracy": 7.6,
+      "rating": 7.7,
+      "position": "FW"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 7.1,
+      "position": "MF"
+    },
+    "조규성": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.8,
+      "rating": 7.4,
+      "position": "FW"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "박진섭": {
+      "pass_accuracy": 7.5,
+      "tackle": 0.0,
+      "clearance": 2.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.6,
+      "position": "DF"
+    }
+  },
+  "kor-vs-aus-20240203": {
+    "조현우": {
+      "pass_accuracy": 7.5,
+      "aerial": 0.0,
+      "save": 8.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 7.0,
+      "position": "GK"
+    },
+    "설영우": {
+      "pass_accuracy": 8.6,
+      "tackle": 4.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 7.4,
+      "position": "DF"
+    },
+    "김영권": {
+      "pass_accuracy": 9.2,
+      "tackle": 0.0,
+      "clearance": 3.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.0,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 8.9,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 3.3,
+      "aerial": 10,
+      "rating": 7.0,
+      "position": "DF"
+    },
+    "김태환": {
+      "pass_accuracy": 8.2,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.3,
+      "key_pass": 0.0,
+      "tackle": 4.0,
+      "rating": 7.1,
+      "position": "MF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.7,
+      "key_pass": 0.0,
+      "tackle": 4.0,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "황희찬": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 7.9,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 7.7,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 7.7,
+      "key_pass": 6.7,
+      "tackle": 2.0,
+      "rating": 8.6,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.6,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 7.8,
+      "position": "MF"
+    },
+    "조규성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 4.0,
+      "pass_accuracy": 6.7,
+      "rating": 6.4,
+      "position": "FW"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 0.0,
+      "tackle": 6.0,
+      "rating": 6.8,
+      "position": "MF"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.4,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 7.0,
+      "position": "MF"
+    },
+    "양현준": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 4.0,
+      "pass_accuracy": 8.4,
+      "rating": 6.6,
+      "position": "FW"
+    },
+    "박진섭": {
+      "pass_accuracy": 9.4,
+      "tackle": 0.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 6.5,
+      "position": "DF"
+    },
+    "오현규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.6,
+      "rating": 6.9,
+      "position": "FW"
+    },
+    "정승현": {
+      "pass_accuracy": 0.0,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "position": "DF"
+    }
+  },
+  "kor-vs-jor-20240207": {
+    "조현우": {
+      "pass_accuracy": 8.8,
+      "aerial": 4.0,
+      "save": 10,
+      "conceded": 3.3,
+      "clean_sheet": 0.0,
+      "rating": 7.7,
+      "position": "GK"
+    },
+    "설영우": {
+      "pass_accuracy": 8.9,
+      "tackle": 2.0,
+      "clearance": 4.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.9,
+      "position": "DF"
+    },
+    "김영권": {
+      "pass_accuracy": 8.1,
+      "tackle": 2.0,
+      "clearance": 5.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.3,
+      "position": "DF"
+    },
+    "정승현": {
+      "pass_accuracy": 8.2,
+      "tackle": 0.0,
+      "clearance": 4.0,
+      "block": 3.3,
+      "aerial": 6.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.9,
+      "key_pass": 3.3,
+      "tackle": 10,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 6.6,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.5,
+      "key_pass": 0.0,
+      "tackle": 8.0,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "황희찬": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 6.0,
+      "pass_accuracy": 7.2,
+      "rating": 6.9,
+      "position": "FW"
+    },
+    "손흥민": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 10,
+      "pass_accuracy": 9.4,
+      "rating": 6.9,
+      "position": "FW"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 2.0,
+      "pass_accuracy": 9.5,
+      "rating": 7.7,
+      "position": "FW"
+    },
+    "조규성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 2.5,
+      "rating": 6.3,
+      "position": "FW"
+    },
+    "정우영1": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 7.0,
+      "position": "MF"
+    },
+    "양현준": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 7.8,
+      "rating": 6.4,
+      "position": "FW"
+    }
+  },
+  "kor-vs-tha-20240321": {
+    "조현우": {
+      "pass_accuracy": 8.6,
+      "aerial": 0.0,
+      "save": 2.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 6.6,
+      "position": "GK"
+    },
+    "설영우": {
+      "pass_accuracy": 8.9,
+      "tackle": 4.0,
+      "clearance": 6.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.5,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 9.5,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 7.1,
+      "position": "DF"
+    },
+    "김영권": {
+      "pass_accuracy": 9.7,
+      "tackle": 4.0,
+      "clearance": 2.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "김진수": {
+      "pass_accuracy": 8.4,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 3.3,
+      "aerial": 0.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "백승호": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.9,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.2,
+      "key_pass": 3.3,
+      "tackle": 10,
+      "rating": 8.7,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "pass_accuracy": 9.8,
+      "key_pass": 10,
+      "tackle": 4.0,
+      "rating": 7.8,
+      "position": "MF"
+    },
+    "정우영1": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.2,
+      "rating": 7.0,
+      "position": "FW"
+    },
+    "손흥민": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 10,
+      "dribble": 2.0,
+      "pass_accuracy": 8.7,
+      "rating": 8.2,
+      "position": "FW"
+    },
+    "주민규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 6.4,
+      "position": "FW"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 6.8,
+      "key_pass": 10,
+      "tackle": 2.0,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 7.5,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.6,
+      "position": "MF"
+    },
+    "이명재": {
+      "pass_accuracy": 9.6,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 7.0,
+      "position": "DF"
+    },
+    "조규성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 0.0,
+      "pass_accuracy": 7.1,
+      "rating": 6.8,
+      "position": "FW"
+    }
+  },
+  "kor-vs-tha-20240326": {
+    "조현우": {
+      "pass_accuracy": 9.4,
+      "aerial": 2.0,
+      "save": 4.0,
+      "conceded": 10,
+      "clean_sheet": 10,
+      "rating": 7.4,
+      "position": "GK"
+    },
+    "김진수": {
+      "pass_accuracy": 8.4,
+      "tackle": 0.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 7.3,
+      "position": "DF"
+    },
+    "김영권": {
+      "pass_accuracy": 9.3,
+      "tackle": 0.0,
+      "clearance": 3.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "김민재": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "pass_accuracy": 9.5,
+      "tackle": 0.0,
+      "clearance": 3.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.9,
+      "position": "DF"
+    },
+    "김문환": {
+      "pass_accuracy": 9.1,
+      "tackle": 2.0,
+      "clearance": 2.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 7.0,
+      "position": "DF"
+    },
+    "이재성": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 0.0,
+      "tackle": 4.0,
+      "rating": 7.3,
+      "position": "MF"
+    },
+    "백승호": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.2,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.5,
+      "position": "MF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.0,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 6.9,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 10,
+      "pass_accuracy": 7.7,
+      "rating": 7.2,
+      "position": "FW"
+    },
+    "조규성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 2.0,
+      "pass_accuracy": 4.0,
+      "rating": 6.7,
+      "position": "FW"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "shoot": 0.0,
+      "dribble": 4.0,
+      "pass_accuracy": 9.6,
+      "rating": 7.5,
+      "position": "FW"
+    },
+    "박진섭": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.5,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 3.3,
+      "aerial": 2.0,
+      "rating": 7.4,
+      "position": "DF"
+    },
+    "주민규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 7.5,
+      "rating": 6.5,
+      "position": "FW"
+    },
+    "설영우": {
+      "pass_accuracy": 7.7,
+      "tackle": 0.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.7,
+      "position": "DF"
+    },
+    "정호연": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 10,
+      "key_pass": 0.0,
+      "tackle": 4.0,
+      "rating": 6.9,
+      "position": "MF"
+    },
+    "송민규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 4.0,
+      "pass_accuracy": 9.0,
+      "rating": 6.9,
+      "position": "FW"
+    }
+  },
+  "kor-vs-chn-20240611": {
+    "조현우": {
+      "pass_accuracy": 9.0,
+      "aerial": 0.0,
+      "save": 0.0,
+      "conceded": 10,
+      "clean_sheet": 10,
+      "rating": 6.7,
+      "position": "GK"
+    },
+    "박승욱": {
+      "pass_accuracy": 8.9,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "조유민": {
+      "pass_accuracy": 8.8,
+      "tackle": 2.0,
+      "clearance": 4.0,
+      "block": 3.3,
+      "aerial": 6.0,
+      "rating": 7.5,
+      "position": "DF"
+    },
+    "권경원": {
+      "pass_accuracy": 9.7,
+      "tackle": 0.0,
+      "clearance": 3.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "김진수": {
+      "pass_accuracy": 9.6,
+      "tackle": 4.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 7.3,
+      "position": "MF"
+    },
+    "정우영2": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.5,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 5.5,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.3,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 6.6,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 4.0,
+      "pass_accuracy": 9.0,
+      "rating": 7.8,
+      "position": "FW"
+    },
+    "황희찬": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 2.0,
+      "pass_accuracy": 8.5,
+      "rating": 7.0,
+      "position": "FW"
+    },
+    "손흥민": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 10,
+      "pass_accuracy": 8.1,
+      "rating": 8.5,
+      "position": "FW"
+    },
+    "황재원": {
+      "pass_accuracy": 8.5,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 6.7,
+      "position": "DF"
+    },
+    "주민규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 0.0,
+      "pass_accuracy": 7.5,
+      "rating": 6.8,
+      "position": "FW"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.6,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.4,
+      "position": "MF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 0.0,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "position": "MF"
+    },
+    "배준호": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 0.0,
+      "position": "FW"
+    }
+  },
+  "kor-vs-ple-20240905": {
+    "조현우": {
+      "pass_accuracy": 10,
+      "aerial": 0.0,
+      "save": 6.0,
+      "conceded": 10,
+      "clean_sheet": 10,
+      "rating": 7.4,
+      "position": "GK"
+    },
+    "황문기": {
+      "pass_accuracy": 9.1,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 9.0,
+      "tackle": 2.0,
+      "clearance": 3.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.1,
+      "position": "DF"
+    },
+    "김영권": {
+      "pass_accuracy": 9.1,
+      "tackle": 4.0,
+      "clearance": 4.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 7.3,
+      "position": "DF"
+    },
+    "설영우": {
+      "pass_accuracy": 8.6,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.7,
+      "key_pass": 10,
+      "tackle": 4.0,
+      "rating": 7.5,
+      "position": "MF"
+    },
+    "정우영2": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.5,
+      "key_pass": 0.0,
+      "tackle": 4.0,
+      "rating": 7.3,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.5,
+      "key_pass": 10,
+      "tackle": 0.0,
+      "rating": 8.5,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.4,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 7.0,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.1,
+      "key_pass": 10,
+      "tackle": 0.0,
+      "rating": 7.1,
+      "position": "MF"
+    },
+    "주민규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.3,
+      "rating": 6.9,
+      "position": "FW"
+    },
+    "오세훈": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.3,
+      "rating": 6.3,
+      "position": "FW"
+    },
+    "황희찬": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 7.7,
+      "rating": 6.6,
+      "position": "FW"
+    },
+    "이명재": {
+      "pass_accuracy": 10,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 6.7,
+      "position": "DF"
+    },
+    "황재원": {
+      "pass_accuracy": 9.1,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "이동경": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 6.8,
+      "position": "MF"
+    }
+  },
+  "kor-vs-oma-20240910": {
+    "조현우": {
+      "pass_accuracy": 7.6,
+      "aerial": 2.0,
+      "save": 0.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 6.5,
+      "position": "GK"
+    },
+    "이명재": {
+      "pass_accuracy": 9.3,
+      "tackle": 2.0,
+      "clearance": 3.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 7.1,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 8.8,
+      "tackle": 2.0,
+      "clearance": 3.0,
+      "block": 3.3,
+      "aerial": 4.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "정승현": {
+      "pass_accuracy": 9.0,
+      "tackle": 6.0,
+      "clearance": 2.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.1,
+      "position": "DF"
+    },
+    "설영우": {
+      "pass_accuracy": 8.2,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.3,
+      "key_pass": 10,
+      "tackle": 0.0,
+      "rating": 8.0,
+      "position": "MF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "황희찬": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 10,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 5.0,
+      "assist": 10,
+      "pass_accuracy": 8.3,
+      "key_pass": 10,
+      "tackle": 0.0,
+      "rating": 8.4,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 6.7,
+      "tackle": 2.0,
+      "rating": 7.5,
+      "position": "MF"
+    },
+    "오세훈": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.9,
+      "rating": 6.4,
+      "position": "FW"
+    },
+    "황문기": {
+      "pass_accuracy": 9.1,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.7,
+      "position": "DF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 10,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 6.8,
+      "position": "MF"
+    },
+    "정우영2": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.1,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.6,
+      "position": "MF"
+    },
+    "엄지성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 5.0,
+      "rating": 6.8,
+      "position": "FW"
+    },
+    "주민규": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 7.4,
+      "position": "FW"
+    }
+  },
+  "kor-vs-jor-20241010": {
+    "조현우": {
+      "pass_accuracy": 8.9,
+      "aerial": 0.0,
+      "save": 4.0,
+      "conceded": 10,
+      "clean_sheet": 10,
+      "rating": 7.2,
+      "position": "GK"
+    },
+    "이명재": {
+      "pass_accuracy": 8.4,
+      "tackle": 4.0,
+      "clearance": 2.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 7.6,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 9.3,
+      "tackle": 2.0,
+      "clearance": 6.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "조유민": {
+      "pass_accuracy": 9.5,
+      "tackle": 4.0,
+      "clearance": 6.0,
+      "block": 6.7,
+      "aerial": 6.0,
+      "rating": 7.6,
+      "position": "DF"
+    },
+    "설영우": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "pass_accuracy": 7.8,
+      "tackle": 10,
+      "clearance": 2.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 8.1,
+      "position": "DF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.1,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 7.0,
+      "position": "MF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.1,
+      "key_pass": 6.7,
+      "tackle": 10,
+      "rating": 7.8,
+      "position": "MF"
+    },
+    "황희찬": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 5.0,
+      "key_pass": 6.7,
+      "tackle": 0.0,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.7,
+      "key_pass": 6.7,
+      "tackle": 2.0,
+      "rating": 7.6,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 6.9,
+      "position": "MF"
+    },
+    "주민규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 4.0,
+      "pass_accuracy": 10,
+      "rating": 6.6,
+      "position": "FW"
+    },
+    "엄지성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 2.0,
+      "pass_accuracy": 10,
+      "rating": 6.9,
+      "position": "FW"
+    },
+    "배준호": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "shoot": 4.0,
+      "dribble": 4.0,
+      "pass_accuracy": 10,
+      "rating": 7.5,
+      "position": "FW"
+    },
+    "오현규": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 4.0,
+      "pass_accuracy": 8.2,
+      "rating": 7.4,
+      "position": "FW"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 6.7,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "position": "MF"
+    },
+    "백승호": {
+      "goal": 10,
+      "assist": 10,
+      "pass_accuracy": 10,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.6,
+      "position": "MF"
+    }
+  },
+  "kor-vs-irq-20241015": {
+    "조현우": {
+      "pass_accuracy": 8.1,
+      "aerial": 0.0,
+      "save": 0.0,
+      "conceded": 3.3,
+      "clean_sheet": 0.0,
+      "rating": 6.2,
+      "position": "GK"
+    },
+    "설영우": {
+      "pass_accuracy": 9.2,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 6.3,
+      "position": "DF"
+    },
+    "조유민": {
+      "pass_accuracy": 8.9,
+      "tackle": 4.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 8.0,
+      "rating": 6.6,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 9.0,
+      "tackle": 4.0,
+      "clearance": 5.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "이명재": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "pass_accuracy": 9.2,
+      "tackle": 2.0,
+      "clearance": 4.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 7.4,
+      "position": "DF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.4,
+      "key_pass": 6.7,
+      "tackle": 2.0,
+      "rating": 7.4,
+      "position": "MF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.5,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 7.0,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.4,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.4,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.7,
+      "key_pass": 6.7,
+      "tackle": 2.0,
+      "rating": 7.8,
+      "position": "MF"
+    },
+    "배준호": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "pass_accuracy": 7.7,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 7.4,
+      "position": "MF"
+    },
+    "오세훈": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 7.1,
+      "rating": 7.2,
+      "position": "FW"
+    },
+    "문선민": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 4.0,
+      "pass_accuracy": 7.1,
+      "position": "FW"
+    },
+    "오현규": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 2.0,
+      "pass_accuracy": 6.7,
+      "rating": 7.2,
+      "position": "FW"
+    },
+    "백승호": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 10,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.3,
+      "position": "MF"
+    },
+    "홍현석": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 4.0,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.1,
+      "position": "MF"
+    },
+    "이승우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 6.4,
+      "position": "FW"
+    }
+  },
+  "kor-vs-kwt-20241114": {
+    "조현우": {
+      "pass_accuracy": 8.6,
+      "aerial": 0.0,
+      "save": 0.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 6.4,
+      "position": "GK"
+    },
+    "이명재": {
+      "pass_accuracy": 9.5,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 9.4,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "조유민": {
+      "pass_accuracy": 9.3,
+      "tackle": 4.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "설영우": {
+      "pass_accuracy": 9.0,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 6.7,
+      "position": "DF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.1,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 6.9,
+      "position": "MF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 10,
+      "pass_accuracy": 9.2,
+      "key_pass": 10,
+      "tackle": 2.0,
+      "rating": 8.7,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 7.1,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 7.9,
+      "key_pass": 6.7,
+      "tackle": 4.0,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 6.7,
+      "tackle": 2.0,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "오세훈": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 4.8,
+      "rating": 7.4,
+      "position": "FW"
+    },
+    "이태석": {
+      "pass_accuracy": 10,
+      "tackle": 0.0,
+      "clearance": 2.0,
+      "block": 0.0,
+      "aerial": 6.0,
+      "rating": 6.9,
+      "position": "DF"
+    },
+    "배준호": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.5,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 7.3,
+      "position": "MF"
+    },
+    "오현규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 2.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 6.6,
+      "position": "FW"
+    },
+    "백승호": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.2,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.7,
+      "position": "MF"
+    },
+    "이현주": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 10,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.7,
+      "position": "MF"
+    }
+  },
+  "kor-vs-ple-20241119": {
+    "조현우": {
+      "pass_accuracy": 8.9,
+      "aerial": 0.0,
+      "save": 2.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 6.6,
+      "position": "GK"
+    },
+    "이명재": {
+      "pass_accuracy": 8.6,
+      "tackle": 0.0,
+      "clearance": 1.0,
+      "block": 3.3,
+      "aerial": 8.0,
+      "rating": 7.3,
+      "position": "DF"
+    },
+    "김민재": {
+      "pass_accuracy": 8.9,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 6.3,
+      "position": "DF"
+    },
+    "조유민": {
+      "pass_accuracy": 9.1,
+      "tackle": 0.0,
+      "clearance": 4.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "설영우": {
+      "pass_accuracy": 9.2,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 7.5,
+      "position": "DF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.6,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.7,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 7.8,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.0,
+      "key_pass": 6.7,
+      "tackle": 2.0,
+      "rating": 8.3,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "pass_accuracy": 8.2,
+      "key_pass": 3.3,
+      "tackle": 2.0,
+      "rating": 7.1,
+      "position": "MF"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.2,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 7.0,
+      "position": "MF"
+    },
+    "오세훈": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 6.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.2,
+      "rating": 7.0,
+      "position": "FW"
+    },
+    "주민규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 6.5,
+      "position": "FW"
+    },
+    "배준호": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.3,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.6,
+      "position": "MF"
+    },
+    "오현규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 0.0,
+      "rating": 6.6,
+      "position": "FW"
+    },
+    "김문환": {
+      "pass_accuracy": 10,
+      "tackle": 0.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "position": "DF"
+    }
+  },
+  "kor-vs-oma-20250320": {
+    "조현우": {
+      "pass_accuracy": 9.3,
+      "aerial": 0.0,
+      "save": 2.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 6.5,
+      "position": "GK"
+    },
+    "설영우": {
+      "pass_accuracy": 8.3,
+      "tackle": 4.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 7.4,
+      "position": "DF"
+    },
+    "조유민": {
+      "pass_accuracy": 9.3,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 10,
+      "rating": 7.1,
+      "position": "DF"
+    },
+    "권경원": {
+      "pass_accuracy": 9.1,
+      "tackle": 2.0,
+      "clearance": 3.0,
+      "block": 6.7,
+      "aerial": 4.0,
+      "rating": 7.4,
+      "position": "DF"
+    },
+    "이태석": {
+      "pass_accuracy": 8.8,
+      "tackle": 2.0,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 4.0,
+      "rating": 6.8,
+      "position": "DF"
+    },
+    "백승호": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.9,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 6.8,
+      "position": "MF"
+    },
+    "박용우": {
+      "pass_accuracy": 9.8,
+      "key_pass": 0.0,
+      "tackle": 4.0,
+      "rating": 7.4,
+      "position": "MF"
+    },
+    "황희찬": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.9,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 7.4,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.8,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.6,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.2,
+      "key_pass": 10,
+      "tackle": 2.0,
+      "rating": 7.5,
+      "position": "MF"
+    },
+    "주민규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 4.2,
+      "rating": 6.5,
+      "position": "FW"
+    },
+    "이강인": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "pass_accuracy": 9.4,
+      "key_pass": 10,
+      "tackle": 4.0,
+      "rating": 7.8,
+      "position": "MF"
+    },
+    "오세훈": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 4.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 6.3,
+      "position": "FW"
+    },
+    "배준호": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 10,
+      "key_pass": 0.0,
+      "tackle": 0.0,
+      "rating": 6.6,
+      "position": "MF"
+    },
+    "오현규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 4.0,
+      "pass_accuracy": 4.0,
+      "rating": 6.6,
+      "position": "FW"
+    },
+    "양현준": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 8.6,
+      "rating": 6.7,
+      "position": "FW"
+    }
+  },
+  "kor-vs-jor-20250325": {
+    "조현우": {
+      "pass_accuracy": 8.6,
+      "aerial": 0.0,
+      "save": 4.0,
+      "conceded": 6.7,
+      "clean_sheet": 0.0,
+      "rating": 6.5,
+      "position": "GK"
+    },
+    "설영우": {
+      "pass_accuracy": 8.6,
+      "tackle": 2.0,
+      "clearance": 0.0,
+      "block": 0.0,
+      "aerial": 0.0,
+      "rating": 7.3,
+      "position": "DF"
+    },
+    "조유민": {
+      "pass_accuracy": 8.6,
+      "tackle": 2.0,
+      "clearance": 2.0,
+      "block": 3.3,
+      "aerial": 10,
+      "rating": 7.2,
+      "position": "DF"
+    },
+    "권경원": {
+      "pass_accuracy": 9.2,
+      "tackle": 0.0,
+      "clearance": 4.0,
+      "block": 10,
+      "aerial": 6.0,
+      "rating": 7.1,
+      "position": "DF"
+    },
+    "이태석": {
+      "pass_accuracy": 9.0,
+      "tackle": 10,
+      "clearance": 1.0,
+      "block": 0.0,
+      "aerial": 2.0,
+      "rating": 7.7,
+      "position": "DF"
+    },
+    "황인범": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.7,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 7.2,
+      "position": "MF"
+    },
+    "박용우": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.1,
+      "key_pass": 0.0,
+      "tackle": 10,
+      "rating": 7.9,
+      "position": "MF"
+    },
+    "이동경": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 9.0,
+      "key_pass": 3.3,
+      "tackle": 0.0,
+      "rating": 6.5,
+      "position": "MF"
+    },
+    "이재성": {
+      "goal": 5.0,
+      "assist": 0.0,
+      "pass_accuracy": 8.0,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 7.5,
+      "position": "MF"
+    },
+    "황희찬": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "pass_accuracy": 7.7,
+      "key_pass": 0.0,
+      "tackle": 2.0,
+      "rating": 6.3,
+      "position": "MF"
+    },
+    "손흥민": {
+      "goal": 0.0,
+      "assist": 5.0,
+      "shoot": 2.0,
+      "dribble": 2.0,
+      "pass_accuracy": 8.9,
+      "rating": 8.0,
+      "position": "FW"
+    },
+    "양민혁": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 6.2,
+      "rating": 6.8,
+      "position": "FW"
+    },
+    "양현준": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 6.2,
+      "rating": 6.6,
+      "position": "FW"
+    },
+    "오세훈": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "rating": 6.7,
+      "position": "FW"
+    },
+    "오현규": {
+      "goal": 0.0,
+      "assist": 0.0,
+      "shoot": 0.0,
+      "dribble": 0.0,
+      "pass_accuracy": 10,
+      "position": "FW"
+    }
+  }
+}
