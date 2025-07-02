@@ -25,7 +25,19 @@ const labels = {
 };
 
 function PlayerRadarChart({ stat }) {
-  const fields = Object.keys(stat).filter((k) => k !== "position");
+  let fields;
+  if (stat.position === "DF") {
+    fields = [
+      "tackle",
+      "clearance",
+      "block",
+      "aerial",
+      "pass_accuracy",
+      "rating",
+    ];
+  } else {
+    fields = Object.keys(stat).filter((k) => k !== "position");
+  }
 
   const data = fields.map((key) => ({
     stat: labels[key] || key,

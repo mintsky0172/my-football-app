@@ -21,15 +21,11 @@
     button {
       padding: 10px 20px;
       font-size: 15px;
-      background: #1976d2;
+      background-color: #1a531b;
       color: white;
       border: none;
       border-radius: 5px;
       cursor: pointer;
-
-      &:hover {
-        background: #1565c0;
-      }
     }
   }
 }

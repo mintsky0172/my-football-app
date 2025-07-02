@@ -1,6 +1,13 @@
 .select-player-page {
   text-align: center;
 
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
   .position-filter {
     display: flex;
     flex-wrap: wrap;
@@ -40,32 +47,71 @@
     background: #f9f9f9;
     text-align: center;
     cursor: pointer;
+  }
+
+  img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 8px;
+    background: white;
+  }
+
+  .name {
+    font-weight: bold;
+    margin-top: 0.5rem;
+  }
+
+  .position {
+    font-size: 0.9rem;
+  }
+
+  .team {
+    color: gray;
+    font-size: 0.9rem;
+  }
+
+  .compare-button {
+    width: 150px;
+    margin-left: 50px;
+    padding: 10px 16px;
+    font-size: 16px;
+    background-color: #8bd4ab !important;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #7ec45b !important;
     }
 
-    img {
-      width: 100%;
-      height: 180px;
-      object-fit: cover;
-      object-position: top;
-      border-radius: 8px;
-      background: white;
-    }
-
-    .name {
-      font-weight: bold;
-      margin-top: 0.5rem;
-    }
-
-    .position {
-      font-size: 0.9rem;
-    }
-
-    .team {
-      color: gray;
-      font-size: 0.9rem;
+    &:disabled {
+      background-color: #ccc !important;
+      cursor: pointer;
     }
   }
 
+  .player-search {
+    margin: 20px;
+  }
+
+  .player-card.selected {
+    border: 3px solid #007bff;
+  }
+
+  .controls {
+    display: flex;
+    gap : 1rem;
+    margin-bottom : 1rem;
+
+    select {
+      padding : 5px 10px;
+      font-size : 1rem;
+    }
+  }
+}
 
 @media (max-width: 600px) {
   .position-filter {
